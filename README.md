@@ -33,10 +33,12 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Braj111/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Braj111/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
@@ -45,5 +47,6 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Braj111/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
