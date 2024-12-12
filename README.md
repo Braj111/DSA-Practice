@@ -7,6 +7,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Braj111/DSA-Practice/tree/master/0001-two-sum) |
+| [2058-concatenation-of-array](https://github.com/Braj111/DSA-Practice/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Braj111/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Braj111/DSA-Practice/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
