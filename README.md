@@ -32,6 +32,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Braj111/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [2401-count-asterisks](https://github.com/Braj111/DSA-Practice/tree/master/2401-count-asterisks) |
 ## Tree
 |  |
 | ------- |
