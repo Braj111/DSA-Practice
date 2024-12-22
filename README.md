@@ -40,6 +40,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Braj111/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Braj111/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Braj111/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Braj111/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 ## Simulation
 |  |
 | ------- |
@@ -70,8 +72,13 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Braj111/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0222-count-complete-tree-nodes](https://github.com/Braj111/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Braj111/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Braj111/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
