@@ -4,19 +4,14 @@ class Solution {
         if(k==s.length()) return true;
         
         int[] arr= new int[26];
-        for(int i=0; i<s.length(); i++){
-            arr[s.charAt(i)-'a']+=1;
+        for(char ch:s.toCharArray()){
+            arr[ch-'a']++;
         }
-        int even=0, odd=0;
+        int odd=0;
         for(int i=0;i<26; i++){
-            if(arr[i]!=0){
-                if(arr[i]%2==0)even++;
-                else odd++;
-            }
+            if(arr[i]%2!=0) odd++;
         }
-        // System.out.println(even+" "+odd);
-        if(odd>k) return false;
-        //  System.out.println(even+" "+odd);
-        return true;
+        
+        return odd<=k;
     }
 }
