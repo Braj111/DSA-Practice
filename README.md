@@ -28,6 +28,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0013-roman-to-integer](https://github.com/Braj111/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Braj111/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0952-word-subsets](https://github.com/Braj111/DSA-Practice/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/Braj111/DSA-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Braj111/DSA-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Linked List
 |  |
@@ -49,6 +50,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Braj111/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0952-word-subsets](https://github.com/Braj111/DSA-Practice/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/Braj111/DSA-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Braj111/DSA-Practice/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Braj111/DSA-Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Braj111/DSA-Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -137,4 +139,12 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Braj111/DSA-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Greedy
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/Braj111/DSA-Practice/tree/master/1502-construct-k-palindrome-strings) |
+## Counting
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/Braj111/DSA-Practice/tree/master/1502-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->
