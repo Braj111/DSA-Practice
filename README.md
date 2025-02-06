@@ -13,6 +13,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0854-making-a-large-island](https://github.com/Braj111/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0898-transpose-matrix) |
 | [0952-word-subsets](https://github.com/Braj111/DSA-Practice/tree/master/0952-word-subsets) |
+| [1364-tuple-with-same-product](https://github.com/Braj111/DSA-Practice/tree/master/1364-tuple-with-same-product) |
 | [1524-string-matching-in-an-array](https://github.com/Braj111/DSA-Practice/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Braj111/DSA-Practice/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Braj111/DSA-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -33,6 +34,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0013-roman-to-integer](https://github.com/Braj111/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Braj111/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0952-word-subsets](https://github.com/Braj111/DSA-Practice/tree/master/0952-word-subsets) |
+| [1364-tuple-with-same-product](https://github.com/Braj111/DSA-Practice/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/Braj111/DSA-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Braj111/DSA-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Braj111/DSA-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -161,6 +163,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/Braj111/DSA-Practice/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/Braj111/DSA-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Braj111/DSA-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Stack
