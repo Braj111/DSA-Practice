@@ -38,6 +38,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1502-construct-k-palindrome-strings](https://github.com/Braj111/DSA-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Braj111/DSA-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Braj111/DSA-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2434-design-a-number-container-system](https://github.com/Braj111/DSA-Practice/tree/master/2434-design-a-number-container-system) |
 ## Linked List
 |  |
 | ------- |
@@ -181,4 +182,16 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0684-redundant-connection](https://github.com/Braj111/DSA-Practice/tree/master/0684-redundant-connection) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Braj111/DSA-Practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Braj111/DSA-Practice/tree/master/2434-design-a-number-container-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Braj111/DSA-Practice/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Braj111/DSA-Practice/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
