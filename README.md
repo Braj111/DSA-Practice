@@ -74,6 +74,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2465-shifting-letters-ii](https://github.com/Braj111/DSA-Practice/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Braj111/DSA-Practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Braj111/DSA-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/Braj111/DSA-Practice/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -106,6 +107,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0054-spiral-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/Braj111/DSA-Practice/tree/master/2058-concatenation-of-array) |
+| [3447-clear-digits](https://github.com/Braj111/DSA-Practice/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -175,6 +177,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Braj111/DSA-Practice/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/Braj111/DSA-Practice/tree/master/3447-clear-digits) |
 ## Union Find
 |  |
 | ------- |
