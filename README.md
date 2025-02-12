@@ -24,6 +24,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2358-number-of-ways-to-split-array](https://github.com/Braj111/DSA-Practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Braj111/DSA-Practice/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Braj111/DSA-Practice/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Braj111/DSA-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Braj111/DSA-Practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Braj111/DSA-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Braj111/DSA-Practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -41,6 +42,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Braj111/DSA-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2434-design-a-number-container-system](https://github.com/Braj111/DSA-Practice/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Braj111/DSA-Practice/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Braj111/DSA-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -200,8 +202,13 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Braj111/DSA-Practice/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Braj111/DSA-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Ordered Set
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Braj111/DSA-Practice/tree/master/2434-design-a-number-container-system) |
+## Sorting
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Braj111/DSA-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
