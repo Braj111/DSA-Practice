@@ -17,6 +17,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1477-product-of-the-last-k-numbers](https://github.com/Braj111/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/Braj111/DSA-Practice/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Braj111/DSA-Practice/tree/master/1603-running-sum-of-1d-array) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Braj111/DSA-Practice/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Braj111/DSA-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Braj111/DSA-Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Braj111/DSA-Practice/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -226,5 +227,6 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Backtracking
 |  |
 | ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Braj111/DSA-Practice/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Braj111/DSA-Practice/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
