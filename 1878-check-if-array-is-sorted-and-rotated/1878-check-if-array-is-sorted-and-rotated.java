@@ -1,12 +1,17 @@
 class Solution {
     public boolean check(int[] nums) {
-        int ans = 0;
-        int n = nums.length;
-        for (int i = 0; i < n; ++i) {
-            if (nums[i] > nums[(i + 1) % n]) {
-                ++ans;
-            }
+        if(nums[0]>=nums[nums.length-1]){
+            int i=1;
+            while(i<nums.length && nums[i]>=nums[i-1]) i++;
+            if(i==nums.length) return true;
+            i++;
+            while(i<nums.length && nums[i]>=nums[i-1]) i++;
+            if(i==nums.length) return true;
+        }else{//not rotated
+            int i=1;
+            while(i<nums.length && nums[i]>=nums[i-1]) i++;
+            if(i==nums.length) return true;
         }
-        return ans <= 1;
+        return false;
     }
 }
