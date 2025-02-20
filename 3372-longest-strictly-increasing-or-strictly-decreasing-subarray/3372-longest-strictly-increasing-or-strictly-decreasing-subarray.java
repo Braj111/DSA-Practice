@@ -16,19 +16,21 @@ class Solution {
             //strictly increasing
             while(i<n && nums[i]>nums[i-1]){
                 i++;
-                flag=true;
+                // flag=true;
             }
             System.out.println(i + " "+ start );
             max= Math.max(max,i-start);
-            if(flag) {start=i-1; continue;}
+            // if(flag) {start=i-1; continue;}
+            start=i-1;
 
             //strictly decreasing
             while(i<n && nums[i]<nums[i-1]){
                 i++;
-                flag=true;
+                // flag=true;
             }
             max= Math.max(max,i-start);
-            if(flag) {start=i-1; continue;}
+            // if(flag) {start=i-1; continue;}
+            start=i-1;
 
         }
         return max;
