@@ -42,6 +42,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0952-word-subsets](https://github.com/Braj111/DSA-Practice/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Braj111/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Braj111/DSA-Practice/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/Braj111/DSA-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Braj111/DSA-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Braj111/DSA-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -96,6 +97,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0110-balanced-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Braj111/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Braj111/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -103,12 +105,14 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0199-binary-tree-right-side-view](https://github.com/Braj111/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0684-redundant-connection](https://github.com/Braj111/DSA-Practice/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/Braj111/DSA-Practice/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Braj111/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0684-redundant-connection](https://github.com/Braj111/DSA-Practice/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/Braj111/DSA-Practice/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Braj111/DSA-Practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Binary Tree
 |  |
@@ -116,6 +120,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0110-balanced-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Braj111/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Braj111/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -214,6 +219,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Design
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Braj111/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Braj111/DSA-Practice/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
