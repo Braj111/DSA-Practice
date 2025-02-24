@@ -29,6 +29,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2448-count-number-of-bad-pairs](https://github.com/Braj111/DSA-Practice/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Braj111/DSA-Practice/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Braj111/DSA-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Braj111/DSA-Practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Braj111/DSA-Practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Braj111/DSA-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Braj111/DSA-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -103,6 +104,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Braj111/DSA-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Braj111/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Braj111/DSA-Practice/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -112,6 +114,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0854-making-a-large-island](https://github.com/Braj111/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Braj111/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Braj111/DSA-Practice/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -119,6 +122,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0684-redundant-connection](https://github.com/Braj111/DSA-Practice/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/Braj111/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Braj111/DSA-Practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Braj111/DSA-Practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Binary Tree
 |  |
@@ -224,6 +228,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Braj111/DSA-Practice/tree/master/0684-redundant-connection) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Braj111/DSA-Practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Braj111/DSA-Practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Design
 |  |
