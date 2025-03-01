@@ -32,6 +32,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2448-count-number-of-bad-pairs](https://github.com/Braj111/DSA-Practice/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Braj111/DSA-Practice/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Braj111/DSA-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2551-apply-operations-to-an-array](https://github.com/Braj111/DSA-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Braj111/DSA-Practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Braj111/DSA-Practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Braj111/DSA-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -146,6 +147,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0898-transpose-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Braj111/DSA-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/Braj111/DSA-Practice/tree/master/2058-concatenation-of-array) |
+| [2551-apply-operations-to-an-array](https://github.com/Braj111/DSA-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Braj111/DSA-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Braj111/DSA-Practice/tree/master/3447-clear-digits) |
 ## Prefix Sum
@@ -165,6 +167,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Braj111/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Braj111/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [2551-apply-operations-to-an-array](https://github.com/Braj111/DSA-Practice/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
