@@ -35,6 +35,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2551-apply-operations-to-an-array](https://github.com/Braj111/DSA-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Braj111/DSA-Practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Braj111/DSA-Practice/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Braj111/DSA-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Braj111/DSA-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Braj111/DSA-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Braj111/DSA-Practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -58,6 +59,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2434-design-a-number-container-system](https://github.com/Braj111/DSA-Practice/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Braj111/DSA-Practice/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Braj111/DSA-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Braj111/DSA-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Linked List
 |  |
 | ------- |
@@ -168,6 +170,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Braj111/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Braj111/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [2551-apply-operations-to-an-array](https://github.com/Braj111/DSA-Practice/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Braj111/DSA-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
 | ------- |
