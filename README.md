@@ -42,6 +42,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Braj111/DSA-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Braj111/DSA-Practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Braj111/DSA-Practice/tree/master/3429-special-array-i) |
+| [3643-zero-array-transformation-ii](https://github.com/Braj111/DSA-Practice/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -177,6 +178,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2358-number-of-ways-to-split-array](https://github.com/Braj111/DSA-Practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Braj111/DSA-Practice/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Braj111/DSA-Practice/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3643-zero-array-transformation-ii](https://github.com/Braj111/DSA-Practice/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -190,6 +192,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Braj111/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/Braj111/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
+| [3643-zero-array-transformation-ii](https://github.com/Braj111/DSA-Practice/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
