@@ -3,45 +3,40 @@
 
 import java.io.*;
 import java.util.*;
+
 class GfG {
-    public static void main(String args[]) {
-        Scanner sc = new Scanner(System.in);
-        int t = sc.nextInt();
+    public static void main(String args[]) throws IOException {
+        BufferedReader read = new BufferedReader(new InputStreamReader(System.in));
+        int t = Integer.parseInt(read.readLine());
+
         while (t-- > 0) {
-            int sum = sc.nextInt();
-            int N = sc.nextInt();
-            int coins[] = new int[N];
-            for (int i = 0; i < N; i++) coins[i] = sc.nextInt();
+            String inputLine[] = read.readLine().trim().split(" ");
+            int n = inputLine.length;
+            int arr[] = new int[n];
+
+            for (int i = 0; i < n; i++) {
+                arr[i] = Integer.parseInt(inputLine[i]);
+            }
+            int sum = Integer.parseInt(read.readLine());
             Solution ob = new Solution();
-            System.out.println(ob.count(coins, N, sum));
+            System.out.println(ob.count(arr, sum));
+            System.out.println("~");
         }
     }
 }
 
-
 // } Driver Code Ends
 
 
-
-
-// User function Template for Java
-
 class Solution {
-    public long count(int coins[], int N, int sum) {
+    public int count(int coins[], int sum) {
         // code here.
-        long[][] dp=new long[N+1][sum+1];
-        for (int i = 0; i <= N; i++) {
-            Arrays.fill(dp[i], -1);
-        }
-        return counting(coins,N,sum,dp);
-    }
-    
-    public long counting(int coins[], int N, int sum, long[][] dp){
-        if(sum==0) return dp[N][sum]=1;
-        if(N==0 || sum<0) return 0;
-        
-        if(dp[N][sum]!=-1) return dp[N][sum];
-        
-        return dp[N][sum]=counting(coins,N,sum-coins[N-1],dp)+counting(coins,N-1,sum,dp);
+        int n = coins.length;
+        int[] dp = new int[sum + 1];
+        dp[0] = 1;
+        for (int i = 0; i < n; i++)
+            for (int j = coins[i]; j <= sum; j++)
+                dp[j] += dp[j - coins[i]];
+        return dp[sum];
     }
 }
