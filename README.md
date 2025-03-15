@@ -36,6 +36,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Braj111/DSA-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/Braj111/DSA-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Braj111/DSA-Practice/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2690-house-robber-iv](https://github.com/Braj111/DSA-Practice/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Braj111/DSA-Practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Braj111/DSA-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Braj111/DSA-Practice/tree/master/3227-find-missing-and-repeated-values) |
@@ -194,6 +195,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0004-median-of-two-sorted-arrays](https://github.com/Braj111/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/Braj111/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Braj111/DSA-Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2690-house-robber-iv](https://github.com/Braj111/DSA-Practice/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/Braj111/DSA-Practice/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
 |  |
