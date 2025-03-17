@@ -30,6 +30,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2107-find-unique-binary-string](https://github.com/Braj111/DSA-Practice/tree/master/2107-find-unique-binary-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Braj111/DSA-Practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Braj111/DSA-Practice/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Braj111/DSA-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/Braj111/DSA-Practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Braj111/DSA-Practice/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Braj111/DSA-Practice/tree/master/2465-shifting-letters-ii) |
@@ -63,6 +64,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Braj111/DSA-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Braj111/DSA-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Braj111/DSA-Practice/tree/master/2107-find-unique-binary-string) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Braj111/DSA-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/Braj111/DSA-Practice/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Braj111/DSA-Practice/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Braj111/DSA-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -209,6 +211,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Braj111/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Braj111/DSA-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Braj111/DSA-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -247,6 +250,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1364-tuple-with-same-product](https://github.com/Braj111/DSA-Practice/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/Braj111/DSA-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Braj111/DSA-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Braj111/DSA-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Braj111/DSA-Practice/tree/master/2448-count-number-of-bad-pairs) |
 ## Stack
 |  |
