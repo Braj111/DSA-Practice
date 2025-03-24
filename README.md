@@ -48,6 +48,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Braj111/DSA-Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Braj111/DSA-Practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Braj111/DSA-Practice/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/Braj111/DSA-Practice/tree/master/3430-count-days-without-meetings) |
 | [3643-zero-array-transformation-ii](https://github.com/Braj111/DSA-Practice/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
@@ -302,6 +303,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Braj111/DSA-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3430-count-days-without-meetings](https://github.com/Braj111/DSA-Practice/tree/master/3430-count-days-without-meetings) |
 ## Data Stream
 |  |
 | ------- |
