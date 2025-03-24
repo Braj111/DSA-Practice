@@ -1,25 +1,12 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/0">Matrix Chain Multiplication</a></h2><h3>Difficulty Level : Difficulty: Hard</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given a sequence of matrices, find the most efficient way to multiply these matrices together.&nbsp;The efficient way is the one that involves&nbsp;the least number of&nbsp;multiplications. </span></p>
-<p><span style="font-size: 18px;">The dimensions of the matrices are given in an array <strong>arr[]</strong>&nbsp;of&nbsp;size&nbsp;<strong>N</strong> (such that N = number of matrices + 1) where the <strong>i<sup>th</sup></strong> matrix has the dimensions&nbsp;<strong>(arr[i-1]&nbsp;x arr[i])</strong>.</span></p>
-<p><strong><span style="font-size: 18px;">Example 1:</span></strong></p>
-<pre><span style="font-size: 18px;"><strong>Input:</strong> N = 5
-arr = {40, 20, 30, 10, 30}
-<strong>Output:</strong> 26000
-<strong>Explanation:</strong> There are 4 matrices of dimension 
-40x20, 20x30, 30x10, 10x30. Say the matrices are 
-named as A, B, C, D. Out of all possible combinations,
-the most efficient way is (A*(B*C))*D. 
-The number of operations are -
-20*30*10 + 40*20*10 + 40*10*30 = 26000.</span></pre>
-<p><br><strong><span style="font-size: 18px;">Example 2:</span></strong></p>
-<pre><span style="font-size: 18px;"><strong>Input:</strong> N = 4
-arr = {10, 30, 5, 60}
-<strong>Output:</strong> 4500
-<strong>Explanation:</strong> The matrices have dimensions 
-10*30, 30*5, 5*60. Say the matrices are A, B 
-and C. Out of all possible combinations,the
-most efficient way is (A*B)*C. The 
-number of multiplications are -
-10*30*5 + 10*5*60 = 4500.</span></pre>
-<p><br><span style="font-size: 18px;"><strong>Your Task:</strong><br>You do not need to take input or print anything. Your task is to complete the function <strong>matrixMultiplication()</strong> which takes the value <strong>N</strong> and the array <strong>arr[]</strong> as input parameters and returns the minimum number of multiplication operations needed to be performed.</span></p>
-<p><br><span style="font-size: 18px;"><strong>Expected Time Complexity:</strong> O(N<sup>3</sup>)<br><strong>Expected Auxiliary Space:</strong> O(N<sup>2</sup>)</span></p>
-<p><br><span style="font-size: 18px;"><strong>Constraints:</strong>&nbsp;<br>2 ≤ N ≤ 100<br>1 ≤ arr[i] ≤ 500</span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Flipkart</code>&nbsp;<code>Microsoft</code>&nbsp;<code>FactSet</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Dynamic Programming</code>&nbsp;<code>Matrix</code>&nbsp;<code>Data Structures</code>&nbsp;<code>Algorithms</code>&nbsp;
+<h2><a href="https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1">Matrix Chain Multiplication</a></h2><h3>Difficulty Level : Difficulty: Hard</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given an&nbsp;</span><span style="font-size: 18px;">array&nbsp;</span><strong style="font-size: 18px;">arr[] </strong><span style="font-size: 18px;">which represents</span><strong style="font-size: 18px;"> the&nbsp;</strong><span style="font-size: 18px;">dimensions of</span><span style="font-size: 18px;"> a sequence of matrices&nbsp;</span><span style="font-size: 18px;">where the&nbsp;</span><strong style="font-size: 18px;">i<sup>th</sup></strong><span style="font-size: 18px;">&nbsp;matrix has the dimensions&nbsp;</span><strong style="font-size: 18px;">(arr[i-1] x arr[i])</strong><span style="font-size: 18px;"> for i&gt;=1</span><span style="font-size: 18px;">, find the most efficient way to multiply these matrices together. The efficient way is the one that involves the least number of multiplications.</span></p>
+<p><strong><span style="font-size: 18px;">Examples:</span></strong></p>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>arr[] = [2, 1, 3, 4]
+<strong>Output:</strong> 20
+<strong>Explanation:</strong> There are 3 matrices of dimensions 2 × 1, 1 × 3, and 3 × 4, Let this 3 input matrices be M1, M2, and M3. There are two ways to multiply: ((M1 x M2) x M3) and (M1 x (M2 x M3)), note that the result of (M1 x M2) is a 2 x 3 matrix and result of (M2 x M3) is a 1 x 4 matrix. <br></span><span style="font-size: 18px;">((M1 x M2) x M3)  requires (2 x 1 x 3) + (2 x 3 x 4) = 30 
+(M1 x (M2 x M3))  requires (1 x 3 x 4) + (2 x 1 x 4) = 20. <br></span><span style="font-size: 18px;">The minimum of these two is 20.</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input:</strong> arr[] = [1, 2, 3, 4, 3]
+<strong>Output:</strong> 30
+<strong>Explanation:</strong> There are 4 matrices of dimensions 1 × 2, 2 × 3, 3 × 4, 4 × 3. Let this 4 input matrices be M1, M2, M3 and M4. The minimum number of multiplications are obtained by ((M1 x M2) x M3) x M4). The minimum number is (1 x 2 x 3) + (1 x 3 x 4) + (1 x 4 x 3) = 30.</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input:</strong> arr[] = [3, 4]
+<strong>Output:</strong> 0<br><strong>Explanation:</strong> As there is only one matrix so, there is no cost of multiplication.</span></pre>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong>&nbsp;<br>2 ≤ arr.size() ≤ 100<br>1 ≤ arr[i] ≤ 200</span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Flipkart</code>&nbsp;<code>Microsoft</code>&nbsp;<code>FactSet</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Dynamic Programming</code>&nbsp;<code>Matrix</code>&nbsp;<code>Data Structures</code>&nbsp;<code>Algorithms</code>&nbsp;
