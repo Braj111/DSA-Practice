@@ -50,6 +50,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3429-special-array-i](https://github.com/Braj111/DSA-Practice/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Braj111/DSA-Practice/tree/master/3430-count-days-without-meetings) |
 | [3643-zero-array-transformation-ii](https://github.com/Braj111/DSA-Practice/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Braj111/DSA-Practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
@@ -304,6 +305,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Braj111/DSA-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3430-count-days-without-meetings](https://github.com/Braj111/DSA-Practice/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Braj111/DSA-Practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Data Stream
 |  |
 | ------- |
