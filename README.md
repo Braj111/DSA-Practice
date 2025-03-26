@@ -10,6 +10,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0004-median-of-two-sorted-arrays](https://github.com/Braj111/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Braj111/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0054-spiral-matrix) |
+| [0303-range-sum-query-immutable](https://github.com/Braj111/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0854-making-a-large-island](https://github.com/Braj111/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Braj111/DSA-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -180,6 +181,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Braj111/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Braj111/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Braj111/DSA-Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Braj111/DSA-Practice/tree/master/1603-running-sum-of-1d-array) |
@@ -287,6 +289,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Braj111/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Braj111/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Braj111/DSA-Practice/tree/master/2434-design-a-number-container-system) |
