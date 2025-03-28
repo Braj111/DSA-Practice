@@ -40,6 +40,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2478-longest-nice-subarray](https://github.com/Braj111/DSA-Practice/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/Braj111/DSA-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Braj111/DSA-Practice/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Braj111/DSA-Practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Braj111/DSA-Practice/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Braj111/DSA-Practice/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Braj111/DSA-Practice/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -159,6 +160,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Braj111/DSA-Practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Braj111/DSA-Practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Braj111/DSA-Practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Braj111/DSA-Practice/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -201,6 +203,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0141-linked-list-cycle](https://github.com/Braj111/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Braj111/DSA-Practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Braj111/DSA-Practice/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Braj111/DSA-Practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Braj111/DSA-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
@@ -231,6 +234,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0854-making-a-large-island](https://github.com/Braj111/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0898-transpose-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Braj111/DSA-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Braj111/DSA-Practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/Braj111/DSA-Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## String Matching
 |  |
@@ -278,6 +282,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0684-redundant-connection](https://github.com/Braj111/DSA-Practice/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/Braj111/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Braj111/DSA-Practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Braj111/DSA-Practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Braj111/DSA-Practice/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Braj111/DSA-Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
@@ -301,6 +306,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Braj111/DSA-Practice/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Braj111/DSA-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Braj111/DSA-Practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Braj111/DSA-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Ordered Set
 |  |
@@ -311,6 +317,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Braj111/DSA-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Braj111/DSA-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Braj111/DSA-Practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3430-count-days-without-meetings](https://github.com/Braj111/DSA-Practice/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Braj111/DSA-Practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Data Stream
