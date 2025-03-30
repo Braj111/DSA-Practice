@@ -61,6 +61,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0001-two-sum](https://github.com/Braj111/DSA-Practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Braj111/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Braj111/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0768-partition-labels](https://github.com/Braj111/DSA-Practice/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Braj111/DSA-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Braj111/DSA-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Braj111/DSA-Practice/tree/master/0952-word-subsets) |
@@ -108,6 +109,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Braj111/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0768-partition-labels](https://github.com/Braj111/DSA-Practice/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/Braj111/DSA-Practice/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Braj111/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Braj111/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
@@ -203,6 +205,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Braj111/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Braj111/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0768-partition-labels](https://github.com/Braj111/DSA-Practice/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Braj111/DSA-Practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Braj111/DSA-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Braj111/DSA-Practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -259,6 +262,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Braj111/DSA-Practice/tree/master/0768-partition-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/Braj111/DSA-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Braj111/DSA-Practice/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Braj111/DSA-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
