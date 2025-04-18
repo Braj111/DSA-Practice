@@ -133,6 +133,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Braj111/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0038-count-and-say](https://github.com/Braj111/DSA-Practice/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/Braj111/DSA-Practice/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/Braj111/DSA-Practice/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Braj111/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
