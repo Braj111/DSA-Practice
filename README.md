@@ -10,6 +10,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0004-median-of-two-sorted-arrays](https://github.com/Braj111/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Braj111/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Braj111/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Braj111/DSA-Practice/tree/master/0075-sort-colors) |
 | [0303-range-sum-query-immutable](https://github.com/Braj111/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0368-largest-divisible-subset](https://github.com/Braj111/DSA-Practice/tree/master/0368-largest-divisible-subset) |
@@ -94,6 +95,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0001-two-sum](https://github.com/Braj111/DSA-Practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Braj111/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Braj111/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Braj111/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0768-partition-labels](https://github.com/Braj111/DSA-Practice/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Braj111/DSA-Practice/tree/master/0797-rabbits-in-forest) |
@@ -319,6 +321,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Braj111/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0854-making-a-large-island](https://github.com/Braj111/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0898-transpose-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Braj111/DSA-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
