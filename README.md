@@ -160,6 +160,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Braj111/DSA-Practice/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/Braj111/DSA-Practice/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Braj111/DSA-Practice/tree/master/3001-apply-operations-to-maximize-score) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Braj111/DSA-Practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/Braj111/DSA-Practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Braj111/DSA-Practice/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/Braj111/DSA-Practice/tree/master/3321-type-of-triangle) |
