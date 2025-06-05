@@ -185,6 +185,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0768-partition-labels](https://github.com/Braj111/DSA-Practice/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Braj111/DSA-Practice/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/Braj111/DSA-Practice/tree/master/0952-word-subsets) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Braj111/DSA-Practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Braj111/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Braj111/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Braj111/DSA-Practice/tree/master/1170-shortest-common-supersequence) |
@@ -419,6 +420,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0684-redundant-connection](https://github.com/Braj111/DSA-Practice/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/Braj111/DSA-Practice/tree/master/0854-making-a-large-island) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Braj111/DSA-Practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Braj111/DSA-Practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Braj111/DSA-Practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Braj111/DSA-Practice/tree/master/2793-count-the-number-of-complete-components) |
