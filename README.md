@@ -241,6 +241,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Braj111/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0386-lexicographical-numbers](https://github.com/Braj111/DSA-Practice/tree/master/0386-lexicographical-numbers) |
 | [0684-redundant-connection](https://github.com/Braj111/DSA-Practice/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/Braj111/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Braj111/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -371,6 +372,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Braj111/DSA-Practice/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Braj111/DSA-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
