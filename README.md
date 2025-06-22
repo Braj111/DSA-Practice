@@ -215,6 +215,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2107-find-unique-binary-string](https://github.com/Braj111/DSA-Practice/tree/master/2107-find-unique-binary-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Braj111/DSA-Practice/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Braj111/DSA-Practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Braj111/DSA-Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Braj111/DSA-Practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2401-count-asterisks](https://github.com/Braj111/DSA-Practice/tree/master/2401-count-asterisks) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Braj111/DSA-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -302,6 +303,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Braj111/DSA-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Braj111/DSA-Practice/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Braj111/DSA-Practice/tree/master/2058-concatenation-of-array) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Braj111/DSA-Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Braj111/DSA-Practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Braj111/DSA-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Braj111/DSA-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
