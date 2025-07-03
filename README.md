@@ -189,6 +189,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3243-count-the-number-of-powerful-integers](https://github.com/Braj111/DSA-Practice/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/Braj111/DSA-Practice/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/Braj111/DSA-Practice/tree/master/3548-find-the-count-of-good-integers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Braj111/DSA-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Braj111/DSA-Practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Braj111/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Braj111/DSA-Practice/tree/master/3637-count-number-of-balanced-permutations) |
@@ -199,6 +200,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Braj111/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [2050-count-good-numbers](https://github.com/Braj111/DSA-Practice/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Braj111/DSA-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
 | ------- |
@@ -320,6 +322,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2551-apply-operations-to-an-array](https://github.com/Braj111/DSA-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Braj111/DSA-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Braj111/DSA-Practice/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Braj111/DSA-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -387,6 +390,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2478-longest-nice-subarray](https://github.com/Braj111/DSA-Practice/tree/master/2478-longest-nice-subarray) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Braj111/DSA-Practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Braj111/DSA-Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Braj111/DSA-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
 | ------- |
