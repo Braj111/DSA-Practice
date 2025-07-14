@@ -169,6 +169,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Braj111/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Braj111/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Braj111/DSA-Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
@@ -177,6 +178,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0013-roman-to-integer](https://github.com/Braj111/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0368-largest-divisible-subset](https://github.com/Braj111/DSA-Practice/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Braj111/DSA-Practice/tree/master/0797-rabbits-in-forest) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Braj111/DSA-Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Braj111/DSA-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Braj111/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Braj111/DSA-Practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
