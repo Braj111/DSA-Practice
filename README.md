@@ -80,6 +80,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2479-meeting-rooms-iii](https://github.com/Braj111/DSA-Practice/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Braj111/DSA-Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Braj111/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Braj111/DSA-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Braj111/DSA-Practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/Braj111/DSA-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Braj111/DSA-Practice/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -434,6 +435,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Braj111/DSA-Practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/Braj111/DSA-Practice/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Braj111/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Braj111/DSA-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Braj111/DSA-Practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Braj111/DSA-Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Braj111/DSA-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -753,4 +755,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Braj111/DSA-Practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Braj111/DSA-Practice/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Braj111/DSA-Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Braj111/DSA-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
