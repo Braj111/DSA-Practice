@@ -17,6 +17,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0303-range-sum-query-immutable](https://github.com/Braj111/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0368-largest-divisible-subset](https://github.com/Braj111/DSA-Practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Braj111/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0498-diagonal-traverse](https://github.com/Braj111/DSA-Practice/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Braj111/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/Braj111/DSA-Practice/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Braj111/DSA-Practice/tree/master/0797-rabbits-in-forest) |
@@ -383,6 +384,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Braj111/DSA-Practice/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Braj111/DSA-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Braj111/DSA-Practice/tree/master/2048-build-array-from-permutation) |
@@ -486,6 +488,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Braj111/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/Braj111/DSA-Practice/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/Braj111/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/Braj111/DSA-Practice/tree/master/0945-snakes-and-ladders) |
