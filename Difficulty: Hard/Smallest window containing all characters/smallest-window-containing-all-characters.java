@@ -1,0 +1,43 @@
+class Solution {
+   public static String smallestWindow(String s, String p) {
+    int len1 = s.length();
+    int len2 = p.length();
+
+    if (len1 < len2)
+        return "";
+
+    int[] countP = new int[256];
+    int[] countS = new int[256];
+    for (int i = 0; i < len2; i++)
+        countP[p.charAt(i)]++;
+
+    int start = 0, start_idx = -1, min_len = Integer.MAX_VALUE;
+    int count = 0;
+
+    for (int j = 0; j < len1; j++) {
+        char currChar = s.charAt(j);
+        countS[currChar]++;
+        if (countP[currChar] != 0 && countS[currChar] <= countP[currChar])
+            count++;
+        if (count == len2) {
+            while (countS[s.charAt(start)] > countP[s.charAt(start)] || countP[s.charAt(start)] == 0) {
+                if (countS[s.charAt(start)] > countP[s.charAt(start)])
+                    countS[s.charAt(start)]--;
+                start++;
+            }
+
+            int windowLen = j - start + 1;
+            if (min_len > windowLen) {
+                min_len = windowLen;
+                start_idx = start;
+            }
+        }
+    }
+
+    if (start_idx == -1)
+        return "";
+
+    return s.substring(start_idx, start_idx + min_len);
+}
+
+}
