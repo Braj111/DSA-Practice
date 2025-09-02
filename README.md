@@ -119,6 +119,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3227-find-missing-and-repeated-values](https://github.com/Braj111/DSA-Practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Braj111/DSA-Practice/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Braj111/DSA-Practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Braj111/DSA-Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Braj111/DSA-Practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Braj111/DSA-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Braj111/DSA-Practice/tree/master/3321-type-of-triangle) |
@@ -252,6 +253,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3201-distribute-candies-among-children-ii](https://github.com/Braj111/DSA-Practice/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Braj111/DSA-Practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Braj111/DSA-Practice/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Braj111/DSA-Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Braj111/DSA-Practice/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/Braj111/DSA-Practice/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/Braj111/DSA-Practice/tree/master/3548-find-the-count-of-good-integers) |
@@ -684,6 +686,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Braj111/DSA-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Braj111/DSA-Practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Braj111/DSA-Practice/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Braj111/DSA-Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Braj111/DSA-Practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Braj111/DSA-Practice/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Braj111/DSA-Practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -810,6 +813,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2215-finding-3-digit-even-numbers](https://github.com/Braj111/DSA-Practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Braj111/DSA-Practice/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Braj111/DSA-Practice/tree/master/3201-distribute-candies-among-children-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Braj111/DSA-Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Braj111/DSA-Practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Braj111/DSA-Practice/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Braj111/DSA-Practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -855,4 +859,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0826-soup-servings](https://github.com/Braj111/DSA-Practice/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Braj111/DSA-Practice/tree/master/0867-new-21-game) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Braj111/DSA-Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
