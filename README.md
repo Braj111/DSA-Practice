@@ -158,6 +158,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3790-fruits-into-baskets-ii](https://github.com/Braj111/DSA-Practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Braj111/DSA-Practice/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/Braj111/DSA-Practice/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Braj111/DSA-Practice/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -221,6 +222,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Braj111/DSA-Practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Braj111/DSA-Practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Braj111/DSA-Practice/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Braj111/DSA-Practice/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Braj111/DSA-Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -496,6 +498,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3643-zero-array-transformation-ii](https://github.com/Braj111/DSA-Practice/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Braj111/DSA-Practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Braj111/DSA-Practice/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Braj111/DSA-Practice/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -675,6 +678,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2434-design-a-number-container-system](https://github.com/Braj111/DSA-Practice/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/Braj111/DSA-Practice/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Braj111/DSA-Practice/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Braj111/DSA-Practice/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -703,6 +707,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3678-design-task-manager](https://github.com/Braj111/DSA-Practice/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Braj111/DSA-Practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Braj111/DSA-Practice/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Braj111/DSA-Practice/tree/master/3827-implement-router) |
 ## Sorting
 |  |
 | ------- |
@@ -886,6 +891,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Braj111/DSA-Practice/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Braj111/DSA-Practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3827-implement-router](https://github.com/Braj111/DSA-Practice/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
