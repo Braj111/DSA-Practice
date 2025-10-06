@@ -24,6 +24,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0594-longest-harmonious-subsequence](https://github.com/Braj111/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Braj111/DSA-Practice/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Braj111/DSA-Practice/tree/master/0679-24-game) |
+| [0794-swim-in-rising-water](https://github.com/Braj111/DSA-Practice/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Braj111/DSA-Practice/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/Braj111/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0898-transpose-matrix) |
@@ -400,6 +401,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0386-lexicographical-numbers](https://github.com/Braj111/DSA-Practice/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Braj111/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Braj111/DSA-Practice/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/Braj111/DSA-Practice/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Braj111/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Braj111/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Braj111/DSA-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -417,6 +419,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0199-binary-tree-right-side-view](https://github.com/Braj111/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Braj111/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Braj111/DSA-Practice/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/Braj111/DSA-Practice/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Braj111/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Braj111/DSA-Practice/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Braj111/DSA-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -506,6 +509,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0004-median-of-two-sorted-arrays](https://github.com/Braj111/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/Braj111/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0611-valid-triangle-number](https://github.com/Braj111/DSA-Practice/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/Braj111/DSA-Practice/tree/master/0794-swim-in-rising-water) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Braj111/DSA-Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Braj111/DSA-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Braj111/DSA-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -558,6 +562,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0073-set-matrix-zeroes](https://github.com/Braj111/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Braj111/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Braj111/DSA-Practice/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/Braj111/DSA-Practice/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Braj111/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/Braj111/DSA-Practice/tree/master/0945-snakes-and-ladders) |
@@ -674,6 +679,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Braj111/DSA-Practice/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/Braj111/DSA-Practice/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Braj111/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Braj111/DSA-Practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Braj111/DSA-Practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -710,6 +716,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/Braj111/DSA-Practice/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Braj111/DSA-Practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/Braj111/DSA-Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Braj111/DSA-Practice/tree/master/2023-design-movie-rental-system) |
