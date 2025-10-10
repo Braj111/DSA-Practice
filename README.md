@@ -142,6 +142,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Braj111/DSA-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Braj111/DSA-Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Braj111/DSA-Practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Braj111/DSA-Practice/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3429-special-array-i](https://github.com/Braj111/DSA-Practice/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Braj111/DSA-Practice/tree/master/3430-count-days-without-meetings) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Braj111/DSA-Practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -483,6 +484,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2465-shifting-letters-ii](https://github.com/Braj111/DSA-Practice/tree/master/2465-shifting-letters-ii) |
 | [2529-range-product-queries-of-powers](https://github.com/Braj111/DSA-Practice/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Braj111/DSA-Practice/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Braj111/DSA-Practice/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Braj111/DSA-Practice/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Braj111/DSA-Practice/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Braj111/DSA-Practice/tree/master/3643-zero-array-transformation-ii) |
