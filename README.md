@@ -114,6 +114,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2564-most-profitable-path-in-a-tree](https://github.com/Braj111/DSA-Practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Braj111/DSA-Practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Braj111/DSA-Practice/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Braj111/DSA-Practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Braj111/DSA-Practice/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/Braj111/DSA-Practice/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/Braj111/DSA-Practice/tree/master/2689-rearranging-fruits) |
@@ -226,6 +227,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2479-meeting-rooms-iii](https://github.com/Braj111/DSA-Practice/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Braj111/DSA-Practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Braj111/DSA-Practice/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Braj111/DSA-Practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Braj111/DSA-Practice/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Braj111/DSA-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Braj111/DSA-Practice/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -291,6 +293,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2448-count-number-of-bad-pairs](https://github.com/Braj111/DSA-Practice/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Braj111/DSA-Practice/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Braj111/DSA-Practice/tree/master/2649-count-total-number-of-colored-cells) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Braj111/DSA-Practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Braj111/DSA-Practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Braj111/DSA-Practice/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/Braj111/DSA-Practice/tree/master/2998-count-symmetric-integers) |
@@ -650,6 +653,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2456-construct-smallest-number-from-di-string](https://github.com/Braj111/DSA-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Braj111/DSA-Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Braj111/DSA-Practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Braj111/DSA-Practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Braj111/DSA-Practice/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/Braj111/DSA-Practice/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Braj111/DSA-Practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
