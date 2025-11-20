@@ -25,6 +25,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0594-longest-harmonious-subsequence](https://github.com/Braj111/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Braj111/DSA-Practice/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Braj111/DSA-Practice/tree/master/0679-24-game) |
+| [0759-set-intersection-size-at-least-two](https://github.com/Braj111/DSA-Practice/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/Braj111/DSA-Practice/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Braj111/DSA-Practice/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/Braj111/DSA-Practice/tree/master/0854-making-a-large-island) |
@@ -701,6 +702,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0135-candy](https://github.com/Braj111/DSA-Practice/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/Braj111/DSA-Practice/tree/master/0611-valid-triangle-number) |
+| [0759-set-intersection-size-at-least-two](https://github.com/Braj111/DSA-Practice/tree/master/0759-set-intersection-size-at-least-two) |
 | [0768-partition-labels](https://github.com/Braj111/DSA-Practice/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Braj111/DSA-Practice/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/Braj111/DSA-Practice/tree/master/1018-largest-perimeter-triangle) |
@@ -864,6 +866,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0368-largest-divisible-subset](https://github.com/Braj111/DSA-Practice/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/Braj111/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Braj111/DSA-Practice/tree/master/0611-valid-triangle-number) |
+| [0759-set-intersection-size-at-least-two](https://github.com/Braj111/DSA-Practice/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-reordered-power-of-2](https://github.com/Braj111/DSA-Practice/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Braj111/DSA-Practice/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Braj111/DSA-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
