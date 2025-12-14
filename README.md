@@ -334,6 +334,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Braj111/DSA-Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Braj111/DSA-Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Braj111/DSA-Practice/tree/master/2050-count-good-numbers) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Braj111/DSA-Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Braj111/DSA-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Braj111/DSA-Practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Braj111/DSA-Practice/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -425,6 +426,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2079-delete-duplicate-folders-in-system](https://github.com/Braj111/DSA-Practice/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/Braj111/DSA-Practice/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Braj111/DSA-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Braj111/DSA-Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Braj111/DSA-Practice/tree/master/2211-count-collisions-on-a-road) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Braj111/DSA-Practice/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Braj111/DSA-Practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -992,6 +994,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Braj111/DSA-Practice/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Braj111/DSA-Practice/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Braj111/DSA-Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Braj111/DSA-Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Braj111/DSA-Practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Braj111/DSA-Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Braj111/DSA-Practice/tree/master/2408-number-of-people-aware-of-a-secret) |
