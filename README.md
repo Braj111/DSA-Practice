@@ -50,6 +50,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1293-three-consecutive-odds](https://github.com/Braj111/DSA-Practice/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Braj111/DSA-Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Braj111/DSA-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Braj111/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Braj111/DSA-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/Braj111/DSA-Practice/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Braj111/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -645,6 +646,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0611-valid-triangle-number](https://github.com/Braj111/DSA-Practice/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/Braj111/DSA-Practice/tree/master/0794-swim-in-rising-water) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Braj111/DSA-Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Braj111/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/Braj111/DSA-Practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Braj111/DSA-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Braj111/DSA-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -714,6 +716,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0854-making-a-large-island](https://github.com/Braj111/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/Braj111/DSA-Practice/tree/master/0945-snakes-and-ladders) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Braj111/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Braj111/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Braj111/DSA-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Braj111/DSA-Practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
