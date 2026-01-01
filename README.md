@@ -12,6 +12,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0036-valid-sudoku](https://github.com/Braj111/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Braj111/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Braj111/DSA-Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Braj111/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Braj111/DSA-Practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Braj111/DSA-Practice/tree/master/0118-pascals-triangle) |
@@ -322,6 +323,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0002-add-two-numbers](https://github.com/Braj111/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Braj111/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Braj111/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Braj111/DSA-Practice/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Braj111/DSA-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Braj111/DSA-Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Braj111/DSA-Practice/tree/master/0326-power-of-three) |
