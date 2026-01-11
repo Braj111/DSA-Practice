@@ -15,6 +15,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0066-plus-one](https://github.com/Braj111/DSA-Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Braj111/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Braj111/DSA-Practice/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/Braj111/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Braj111/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Braj111/DSA-Practice/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/Braj111/DSA-Practice/tree/master/0198-house-robber) |
@@ -741,6 +742,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0037-sudoku-solver](https://github.com/Braj111/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Braj111/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/Braj111/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Braj111/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Braj111/DSA-Practice/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/Braj111/DSA-Practice/tree/master/0794-swim-in-rising-water) |
@@ -874,6 +876,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Braj111/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Braj111/DSA-Practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Braj111/DSA-Practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Braj111/DSA-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -1036,6 +1039,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Braj111/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Braj111/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Braj111/DSA-Practice/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/Braj111/DSA-Practice/tree/master/0368-largest-divisible-subset) |
@@ -1142,6 +1146,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Braj111/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Braj111/DSA-Practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Braj111/DSA-Practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Braj111/DSA-Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
