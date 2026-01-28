@@ -222,6 +222,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3643-zero-array-transformation-ii](https://github.com/Braj111/DSA-Practice/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Braj111/DSA-Practice/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Braj111/DSA-Practice/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Braj111/DSA-Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Braj111/DSA-Practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Braj111/DSA-Practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Braj111/DSA-Practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -795,6 +796,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Braj111/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Braj111/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Braj111/DSA-Practice/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Braj111/DSA-Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Braj111/DSA-Practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Braj111/DSA-Practice/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/Braj111/DSA-Practice/tree/master/3797-design-spreadsheet) |
@@ -1130,6 +1132,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Braj111/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Braj111/DSA-Practice/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Braj111/DSA-Practice/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Braj111/DSA-Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Braj111/DSA-Practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Braj111/DSA-Practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Number Theory
