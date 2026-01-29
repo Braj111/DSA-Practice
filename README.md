@@ -161,6 +161,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Braj111/DSA-Practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Braj111/DSA-Practice/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Braj111/DSA-Practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Braj111/DSA-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Braj111/DSA-Practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Braj111/DSA-Practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Braj111/DSA-Practice/tree/master/3074-apple-redistribution-into-boxes) |
@@ -494,6 +495,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Braj111/DSA-Practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Braj111/DSA-Practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2887-sort-vowels-in-a-string](https://github.com/Braj111/DSA-Practice/tree/master/2887-sort-vowels-in-a-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Braj111/DSA-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Braj111/DSA-Practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Braj111/DSA-Practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Braj111/DSA-Practice/tree/master/3194-find-words-containing-character) |
@@ -1183,6 +1185,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Braj111/DSA-Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Braj111/DSA-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Braj111/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Braj111/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Braj111/DSA-Practice/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -1302,5 +1305,6 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Braj111/DSA-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Braj111/DSA-Practice/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
