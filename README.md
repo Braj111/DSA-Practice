@@ -192,6 +192,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Braj111/DSA-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Braj111/DSA-Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Braj111/DSA-Practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3379-transformed-array](https://github.com/Braj111/DSA-Practice/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Braj111/DSA-Practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Braj111/DSA-Practice/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3429-special-array-i](https://github.com/Braj111/DSA-Practice/tree/master/3429-special-array-i) |
@@ -633,6 +634,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2479-meeting-rooms-iii](https://github.com/Braj111/DSA-Practice/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/Braj111/DSA-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Braj111/DSA-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3379-transformed-array](https://github.com/Braj111/DSA-Practice/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/Braj111/DSA-Practice/tree/master/3433-count-mentions-per-user) |
 | [3447-clear-digits](https://github.com/Braj111/DSA-Practice/tree/master/3447-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Braj111/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
