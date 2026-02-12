@@ -1,5 +1,6 @@
 class Solution {
-      static boolean isPossible(int[] arr, int k, int w, int maxHeight) {
+    public boolean isPossible(int[] arr, int k, 
+                              int w, int maxHeight) {
 
         int n = arr.length;
         int[] water = new int[n];
@@ -26,7 +27,7 @@ class Solution {
         return true;
     }
 
-    static int maxMinHeight(int[] arr, int k, int w) {
+    public int maxMinHeight(int[] arr, int k, int w) {
 
         int n = arr.length;
         int low = arr[0];
@@ -51,5 +52,4 @@ class Solution {
 
         return ans;
     }
-
 }
