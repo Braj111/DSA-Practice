@@ -365,6 +365,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0009-palindrome-number](https://github.com/Braj111/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Braj111/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Braj111/DSA-Practice/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Braj111/DSA-Practice/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Braj111/DSA-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Braj111/DSA-Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Braj111/DSA-Practice/tree/master/0326-power-of-three) |
@@ -456,6 +457,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Braj111/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/Braj111/DSA-Practice/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/Braj111/DSA-Practice/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/Braj111/DSA-Practice/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Braj111/DSA-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/Braj111/DSA-Practice/tree/master/0474-ones-and-zeroes) |
@@ -628,6 +630,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Braj111/DSA-Practice/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Braj111/DSA-Practice/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/Braj111/DSA-Practice/tree/master/1642-water-bottles) |
@@ -769,6 +772,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Braj111/DSA-Practice/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Braj111/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Braj111/DSA-Practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Braj111/DSA-Practice/tree/master/0342-power-of-four) |
