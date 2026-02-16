@@ -764,6 +764,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Braj111/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/Braj111/DSA-Practice/tree/master/0190-reverse-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Braj111/DSA-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Braj111/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Braj111/DSA-Practice/tree/master/2280-count-good-triplets-in-an-array) |
@@ -773,6 +774,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Braj111/DSA-Practice/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Braj111/DSA-Practice/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Braj111/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Braj111/DSA-Practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Braj111/DSA-Practice/tree/master/0342-power-of-four) |
