@@ -778,6 +778,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0222-count-complete-tree-nodes](https://github.com/Braj111/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Braj111/DSA-Practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Braj111/DSA-Practice/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/Braj111/DSA-Practice/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Braj111/DSA-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Braj111/DSA-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -1109,6 +1110,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Braj111/DSA-Practice/tree/master/0037-sudoku-solver) |
+| [0401-binary-watch](https://github.com/Braj111/DSA-Practice/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/Braj111/DSA-Practice/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/Braj111/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
