@@ -461,6 +461,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0165-compare-version-numbers](https://github.com/Braj111/DSA-Practice/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Braj111/DSA-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/Braj111/DSA-Practice/tree/master/0474-ones-and-zeroes) |
+| [0696-count-binary-substrings](https://github.com/Braj111/DSA-Practice/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Braj111/DSA-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Braj111/DSA-Practice/tree/master/0768-partition-labels) |
@@ -709,6 +710,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0141-linked-list-cycle](https://github.com/Braj111/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/Braj111/DSA-Practice/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/Braj111/DSA-Practice/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/Braj111/DSA-Practice/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/Braj111/DSA-Practice/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Braj111/DSA-Practice/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Braj111/DSA-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
