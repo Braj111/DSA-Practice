@@ -464,6 +464,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0696-count-binary-substrings](https://github.com/Braj111/DSA-Practice/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Braj111/DSA-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/Braj111/DSA-Practice/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/Braj111/DSA-Practice/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Braj111/DSA-Practice/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Braj111/DSA-Practice/tree/master/0944-delete-columns-to-make-sorted) |
@@ -767,6 +768,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Braj111/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/Braj111/DSA-Practice/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/Braj111/DSA-Practice/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Braj111/DSA-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Braj111/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Braj111/DSA-Practice/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1058,6 +1060,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0594-longest-harmonious-subsequence](https://github.com/Braj111/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Braj111/DSA-Practice/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Braj111/DSA-Practice/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/Braj111/DSA-Practice/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/Braj111/DSA-Practice/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Braj111/DSA-Practice/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Braj111/DSA-Practice/tree/master/1200-minimum-absolute-difference) |
