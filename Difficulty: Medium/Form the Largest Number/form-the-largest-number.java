@@ -1,8 +1,8 @@
 class Solution {
-     static boolean myCompare(String s1, String s2) {
+    public boolean myCompare(String s1, String s2) {
         return (s1 + s2).compareTo(s2 + s1) > 0;
     }
-    static String findLargest(int[] arr) {
+    public String findLargest(int[] arr) {
         ArrayList<String> numbers = new ArrayList<>();
         for (int ele : arr) {
             numbers.add(Integer.toString(ele));
