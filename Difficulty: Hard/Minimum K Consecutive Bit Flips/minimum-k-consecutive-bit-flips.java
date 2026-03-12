@@ -1,23 +1,25 @@
 class Solution {
     public int kBitFlips(int[] arr, int k) {
         // code here
-       int n = arr.length;
-        int flip = 0;
-        int[] isFlipped = new int[n];
-        int res = 0;
+        int n = arr.length; 
+        int res = 0, flag = 0;
+        Queue<Integer> q = new LinkedList<>(); 
 
         for (int i = 0; i < n; i++) {
-            if (i >= k) {
-                flip ^= isFlipped[i - k];
+            
+            if(i >= k)
+                flag ^= q.poll();
+            if(flag == 1)
+                arr[i] ^= 1;
+            if(arr[i] == 0) {
+                if(i + k > n) 
+                    return -1;
+                res += 1;
+                flag ^= 1;
+                q.offer(1);
             }
-
-            if ((arr[i] ^ flip) == 0) {
-                if (i + k > n) {
-                    return -1; 
-                }
-                isFlipped[i] = 1;
-                flip ^= 1;
-                res++;
+            else {
+                q.offer(0);
             }
         }
 
