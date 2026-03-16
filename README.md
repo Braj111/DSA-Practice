@@ -89,6 +89,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Braj111/DSA-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Braj111/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Braj111/DSA-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Braj111/DSA-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Braj111/DSA-Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/Braj111/DSA-Practice/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/Braj111/DSA-Practice/tree/master/1917-maximum-average-pass-ratio) |
@@ -402,6 +403,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1642-water-bottles](https://github.com/Braj111/DSA-Practice/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Braj111/DSA-Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Braj111/DSA-Practice/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Braj111/DSA-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Braj111/DSA-Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Braj111/DSA-Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Braj111/DSA-Practice/tree/master/2050-count-good-numbers) |
@@ -699,6 +701,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1590-make-sum-divisible-by-p](https://github.com/Braj111/DSA-Practice/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/Braj111/DSA-Practice/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Braj111/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Braj111/DSA-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Braj111/DSA-Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/Braj111/DSA-Practice/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Braj111/DSA-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -865,6 +868,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Braj111/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Braj111/DSA-Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Braj111/DSA-Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Braj111/DSA-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Braj111/DSA-Practice/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Braj111/DSA-Practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Braj111/DSA-Practice/tree/master/1975-maximum-matrix-sum) |
@@ -1063,6 +1067,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0794-swim-in-rising-water](https://github.com/Braj111/DSA-Practice/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Braj111/DSA-Practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/Braj111/DSA-Practice/tree/master/1612-avoid-flood-in-the-city) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Braj111/DSA-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Braj111/DSA-Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Braj111/DSA-Practice/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/Braj111/DSA-Practice/tree/master/2054-two-best-non-overlapping-events) |
@@ -1120,6 +1125,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Braj111/DSA-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Braj111/DSA-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Braj111/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Braj111/DSA-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Braj111/DSA-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Braj111/DSA-Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Braj111/DSA-Practice/tree/master/2141-maximum-running-time-of-n-computers) |
