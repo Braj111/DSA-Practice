@@ -168,6 +168,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Braj111/DSA-Practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Braj111/DSA-Practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Braj111/DSA-Practice/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2906-construct-product-matrix](https://github.com/Braj111/DSA-Practice/tree/master/2906-construct-product-matrix) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Braj111/DSA-Practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Braj111/DSA-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Braj111/DSA-Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -720,6 +721,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2618-maximize-the-minimum-powered-city](https://github.com/Braj111/DSA-Practice/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Braj111/DSA-Practice/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Braj111/DSA-Practice/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2906-construct-product-matrix](https://github.com/Braj111/DSA-Practice/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Braj111/DSA-Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Braj111/DSA-Practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Braj111/DSA-Practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -888,6 +890,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Braj111/DSA-Practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Braj111/DSA-Practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2625-increment-submatrices-by-one](https://github.com/Braj111/DSA-Practice/tree/master/2625-increment-submatrices-by-one) |
+| [2906-construct-product-matrix](https://github.com/Braj111/DSA-Practice/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Braj111/DSA-Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Braj111/DSA-Practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/Braj111/DSA-Practice/tree/master/3227-find-missing-and-repeated-values) |
