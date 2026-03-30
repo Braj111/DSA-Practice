@@ -332,6 +332,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Braj111/DSA-Practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Braj111/DSA-Practice/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Braj111/DSA-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Braj111/DSA-Practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Braj111/DSA-Practice/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Braj111/DSA-Practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Braj111/DSA-Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -549,6 +550,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2573-find-the-string-with-lcp](https://github.com/Braj111/DSA-Practice/tree/master/2573-find-the-string-with-lcp) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Braj111/DSA-Practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Braj111/DSA-Practice/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Braj111/DSA-Practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Braj111/DSA-Practice/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Braj111/DSA-Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Braj111/DSA-Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -1173,6 +1175,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2681-put-marbles-in-bags](https://github.com/Braj111/DSA-Practice/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/Braj111/DSA-Practice/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Braj111/DSA-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Braj111/DSA-Practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Braj111/DSA-Practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Braj111/DSA-Practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Braj111/DSA-Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
