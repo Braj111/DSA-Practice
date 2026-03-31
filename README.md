@@ -565,6 +565,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Braj111/DSA-Practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/Braj111/DSA-Practice/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/Braj111/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Braj111/DSA-Practice/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Braj111/DSA-Practice/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Braj111/DSA-Practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Braj111/DSA-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -923,6 +924,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1524-string-matching-in-an-array](https://github.com/Braj111/DSA-Practice/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Braj111/DSA-Practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Braj111/DSA-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Braj111/DSA-Practice/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Trie
 |  |
 | ------- |
@@ -997,6 +999,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Braj111/DSA-Practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Braj111/DSA-Practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Braj111/DSA-Practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Braj111/DSA-Practice/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Braj111/DSA-Practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Braj111/DSA-Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Braj111/DSA-Practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
