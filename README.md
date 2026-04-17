@@ -268,6 +268,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Braj111/DSA-Practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Braj111/DSA-Practice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Braj111/DSA-Practice/tree/master/3748-sort-matrix-by-diagonals) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Braj111/DSA-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Braj111/DSA-Practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Braj111/DSA-Practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Braj111/DSA-Practice/tree/master/3790-fruits-into-baskets-ii) |
@@ -374,6 +375,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Braj111/DSA-Practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Braj111/DSA-Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Braj111/DSA-Practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Braj111/DSA-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Braj111/DSA-Practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Braj111/DSA-Practice/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Braj111/DSA-Practice/tree/master/3827-implement-router) |
@@ -475,6 +477,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3676-smallest-number-with-all-set-bits](https://github.com/Braj111/DSA-Practice/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Braj111/DSA-Practice/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Braj111/DSA-Practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Braj111/DSA-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Braj111/DSA-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Braj111/DSA-Practice/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Braj111/DSA-Practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
