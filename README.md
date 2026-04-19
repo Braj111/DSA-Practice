@@ -90,6 +90,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Braj111/DSA-Practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Braj111/DSA-Practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Braj111/DSA-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Braj111/DSA-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Braj111/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Braj111/DSA-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Braj111/DSA-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -792,6 +793,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0768-partition-labels](https://github.com/Braj111/DSA-Practice/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Braj111/DSA-Practice/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Braj111/DSA-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Braj111/DSA-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Braj111/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Braj111/DSA-Practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Braj111/DSA-Practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -818,6 +820,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1612-avoid-flood-in-the-city](https://github.com/Braj111/DSA-Practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Braj111/DSA-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Braj111/DSA-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Braj111/DSA-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Braj111/DSA-Practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Braj111/DSA-Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Braj111/DSA-Practice/tree/master/2141-maximum-running-time-of-n-computers) |
