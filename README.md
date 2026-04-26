@@ -72,6 +72,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Braj111/DSA-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/Braj111/DSA-Practice/tree/master/1524-string-matching-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Braj111/DSA-Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Braj111/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Braj111/DSA-Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Braj111/DSA-Practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/Braj111/DSA-Practice/tree/master/1590-make-sum-divisible-by-p) |
@@ -653,6 +654,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Braj111/DSA-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1382-balance-a-binary-search-tree](https://github.com/Braj111/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Braj111/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Braj111/DSA-Practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Braj111/DSA-Practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Braj111/DSA-Practice/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -677,6 +679,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Braj111/DSA-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Braj111/DSA-Practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Braj111/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Braj111/DSA-Practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Braj111/DSA-Practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Braj111/DSA-Practice/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -932,6 +935,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Braj111/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Braj111/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Braj111/DSA-Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Braj111/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Braj111/DSA-Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Braj111/DSA-Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Braj111/DSA-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -1538,6 +1542,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Braj111/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Braj111/DSA-Practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/Braj111/DSA-Practice/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Braj111/DSA-Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
