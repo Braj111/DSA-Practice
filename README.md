@@ -418,6 +418,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0396-rotate-function](https://github.com/Braj111/DSA-Practice/tree/master/0396-rotate-function) |
 | [0679-24-game](https://github.com/Braj111/DSA-Practice/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Braj111/DSA-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/Braj111/DSA-Practice/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/Braj111/DSA-Practice/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Braj111/DSA-Practice/tree/master/0826-soup-servings) |
 | [0840-magic-squares-in-grid](https://github.com/Braj111/DSA-Practice/tree/master/0840-magic-squares-in-grid) |
@@ -1303,6 +1304,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0416-partition-equal-subset-sum](https://github.com/Braj111/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Braj111/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Braj111/DSA-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/Braj111/DSA-Practice/tree/master/0788-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/Braj111/DSA-Practice/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/Braj111/DSA-Practice/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Braj111/DSA-Practice/tree/master/0867-new-21-game) |
