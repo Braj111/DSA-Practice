@@ -1,51 +1,36 @@
-//{ Driver Code Starts
-import java.util.*;
-import java.lang.*;
-import java.io.*;
-
-class GFG {
-	public static void main(String[] args) throws IOException
-	{
-	        BufferedReader br =
-            new BufferedReader(new InputStreamReader(System.in));
-        int t =
-            Integer.parseInt(br.readLine().trim()); // Inputting the testcases
-        while(t-->0)
-        {
-            int n = Integer.parseInt(br.readLine().trim());
-            Integer arr[] = new Integer[(int)(n)];
-            String inputLine[] = br.readLine().trim().split(" ");
-            for (int i = 0; i < n; i++) {
-                arr[i] = Integer.parseInt(inputLine[i]);
-            }
-            
-            Compute obj = new Compute();
-            obj.sortBySetBitCount(arr, n);
-            StringBuilder output = new StringBuilder();
-            for(int i = 0; i < n; i++)
-            output.append(arr[i] + " ");
-            System.out.println(output);
-            
+class Solution {
+    
+    static int countBits(int n) {
+        int cnt = 0;
+        while (n > 0) {
+            n = n & (n - 1);
+            cnt++;
         }
-	}
-}
+        return cnt;
+    }
 
+    static ArrayList<Integer> sortBySetBitCount(int[] arr) {
+        int n = arr.length;
+        
+        ArrayList<ArrayList<Integer>> count = new ArrayList<>();
 
-// } Driver Code Ends
+        for (int i = 0; i < 32; i++) {
+            count.add(new ArrayList<>());
+        }
 
+        for (int i = 0; i < n; i++) {
+            int setBit = countBits(arr[i]);
+            count.get(setBit).add(arr[i]);
+        }
 
-//User function Template for Java
+        ArrayList<Integer> res = new ArrayList<>();
 
-
-class Compute  
-{ 
-    static void sortBySetBitCount(Integer arr[], int n)
-    { 
-        // Your code goes here
-        Arrays.sort(arr, new Comparator<Integer>(){
-            public int compare(Integer a, Integer b){
-                return Integer.bitCount(b)-Integer.bitCount(a);
+        for (int i = 31; i >= 0; i--) {
+            for (int num : count.get(i)) {
+                res.add(num);
             }
-        });
-    } 
+        }
+
+        return res;
+    }
 }
