@@ -523,6 +523,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0756-pyramid-transition-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/Braj111/DSA-Practice/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/Braj111/DSA-Practice/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/Braj111/DSA-Practice/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/Braj111/DSA-Practice/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Braj111/DSA-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Braj111/DSA-Practice/tree/master/0952-word-subsets) |
@@ -982,6 +983,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Braj111/DSA-Practice/tree/master/0796-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Braj111/DSA-Practice/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Braj111/DSA-Practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Braj111/DSA-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
