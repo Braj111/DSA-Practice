@@ -255,6 +255,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Braj111/DSA-Practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Braj111/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Braj111/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Braj111/DSA-Practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Braj111/DSA-Practice/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Braj111/DSA-Practice/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/Braj111/DSA-Practice/tree/master/3639-zero-array-transformation-i) |
@@ -380,6 +381,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Braj111/DSA-Practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Braj111/DSA-Practice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Braj111/DSA-Practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Braj111/DSA-Practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Braj111/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Braj111/DSA-Practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/Braj111/DSA-Practice/tree/master/3678-design-task-manager) |
@@ -492,6 +494,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Braj111/DSA-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Braj111/DSA-Practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Braj111/DSA-Practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Braj111/DSA-Practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Braj111/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Braj111/DSA-Practice/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Braj111/DSA-Practice/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -700,6 +703,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Braj111/DSA-Practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Braj111/DSA-Practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Braj111/DSA-Practice/tree/master/2793-count-the-number-of-complete-components) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Braj111/DSA-Practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Braj111/DSA-Practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Braj111/DSA-Practice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
@@ -1388,6 +1392,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2610-closest-prime-numbers-in-range](https://github.com/Braj111/DSA-Practice/tree/master/2610-closest-prime-numbers-in-range) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Braj111/DSA-Practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Braj111/DSA-Practice/tree/master/3001-apply-operations-to-maximize-score) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Braj111/DSA-Practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Braj111/DSA-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
