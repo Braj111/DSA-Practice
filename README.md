@@ -183,6 +183,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Braj111/DSA-Practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2751-robot-collisions](https://github.com/Braj111/DSA-Practice/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Braj111/DSA-Practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Braj111/DSA-Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Braj111/DSA-Practice/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2906-construct-product-matrix](https://github.com/Braj111/DSA-Practice/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Braj111/DSA-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1360,6 +1361,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Braj111/DSA-Practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/Braj111/DSA-Practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Braj111/DSA-Practice/tree/master/2573-find-the-string-with-lcp) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Braj111/DSA-Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Braj111/DSA-Practice/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Braj111/DSA-Practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Braj111/DSA-Practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
