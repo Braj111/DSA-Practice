@@ -86,6 +86,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Braj111/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Braj111/DSA-Practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/Braj111/DSA-Practice/tree/master/1656-count-good-triplets) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Braj111/DSA-Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Braj111/DSA-Practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Braj111/DSA-Practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Braj111/DSA-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -1048,6 +1049,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Braj111/DSA-Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/Braj111/DSA-Practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Braj111/DSA-Practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Braj111/DSA-Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Braj111/DSA-Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Braj111/DSA-Practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Braj111/DSA-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -1244,6 +1246,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Braj111/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Braj111/DSA-Practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Braj111/DSA-Practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Braj111/DSA-Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Braj111/DSA-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Braj111/DSA-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Braj111/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
