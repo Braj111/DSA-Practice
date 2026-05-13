@@ -87,6 +87,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Braj111/DSA-Practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/Braj111/DSA-Practice/tree/master/1656-count-good-triplets) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Braj111/DSA-Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Braj111/DSA-Practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Braj111/DSA-Practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Braj111/DSA-Practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Braj111/DSA-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -334,6 +335,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Braj111/DSA-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Braj111/DSA-Practice/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/Braj111/DSA-Practice/tree/master/1612-avoid-flood-in-the-city) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Braj111/DSA-Practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1813-maximum-erasure-value](https://github.com/Braj111/DSA-Practice/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Braj111/DSA-Practice/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Braj111/DSA-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -780,6 +782,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1590-make-sum-divisible-by-p](https://github.com/Braj111/DSA-Practice/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/Braj111/DSA-Practice/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Braj111/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Braj111/DSA-Practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Braj111/DSA-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Braj111/DSA-Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/Braj111/DSA-Practice/tree/master/1895-largest-magic-square) |
