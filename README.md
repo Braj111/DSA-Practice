@@ -19,6 +19,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0085-maximal-rectangle](https://github.com/Braj111/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Braj111/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Braj111/DSA-Practice/tree/master/0135-candy) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Braj111/DSA-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/Braj111/DSA-Practice/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/Braj111/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0368-largest-divisible-subset](https://github.com/Braj111/DSA-Practice/tree/master/0368-largest-divisible-subset) |
@@ -854,6 +855,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Braj111/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Braj111/DSA-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Braj111/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0611-valid-triangle-number](https://github.com/Braj111/DSA-Practice/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Braj111/DSA-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
