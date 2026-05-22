@@ -9,6 +9,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0001-two-sum](https://github.com/Braj111/DSA-Practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Braj111/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Braj111/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Braj111/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Braj111/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Braj111/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Braj111/DSA-Practice/tree/master/0048-rotate-image) |
@@ -866,6 +867,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Braj111/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Braj111/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Braj111/DSA-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Braj111/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0611-valid-triangle-number](https://github.com/Braj111/DSA-Practice/tree/master/0611-valid-triangle-number) |
