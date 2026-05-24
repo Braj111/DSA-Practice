@@ -61,6 +61,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1293-three-consecutive-odds](https://github.com/Braj111/DSA-Practice/tree/master/1293-three-consecutive-odds) |
 | [1306-jump-game-iii](https://github.com/Braj111/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Braj111/DSA-Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1340-jump-game-v](https://github.com/Braj111/DSA-Practice/tree/master/1340-jump-game-v) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Braj111/DSA-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Braj111/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Braj111/DSA-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -1264,6 +1265,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1018-largest-perimeter-triangle](https://github.com/Braj111/DSA-Practice/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Braj111/DSA-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Braj111/DSA-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1340-jump-game-v](https://github.com/Braj111/DSA-Practice/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Braj111/DSA-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Braj111/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Braj111/DSA-Practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -1362,6 +1364,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1170-shortest-common-supersequence](https://github.com/Braj111/DSA-Practice/tree/master/1170-shortest-common-supersequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Braj111/DSA-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Braj111/DSA-Practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1340-jump-game-v](https://github.com/Braj111/DSA-Practice/tree/master/1340-jump-game-v) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Braj111/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Braj111/DSA-Practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Braj111/DSA-Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
