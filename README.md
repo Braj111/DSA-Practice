@@ -125,6 +125,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Braj111/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Braj111/DSA-Practice/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/Braj111/DSA-Practice/tree/master/2107-find-unique-binary-string) |
+| [2126-destroying-asteroids](https://github.com/Braj111/DSA-Practice/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Braj111/DSA-Practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Braj111/DSA-Practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Braj111/DSA-Practice/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -1095,6 +1096,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1917-maximum-average-pass-ratio](https://github.com/Braj111/DSA-Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/Braj111/DSA-Practice/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Braj111/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/Braj111/DSA-Practice/tree/master/2126-destroying-asteroids) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Braj111/DSA-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Braj111/DSA-Practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Braj111/DSA-Practice/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -1290,6 +1292,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Braj111/DSA-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Braj111/DSA-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Braj111/DSA-Practice/tree/master/2054-two-best-non-overlapping-events) |
+| [2126-destroying-asteroids](https://github.com/Braj111/DSA-Practice/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Braj111/DSA-Practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Braj111/DSA-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Braj111/DSA-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
