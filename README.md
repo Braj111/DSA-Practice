@@ -131,6 +131,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Braj111/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Braj111/DSA-Practice/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Braj111/DSA-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Braj111/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/Braj111/DSA-Practice/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Braj111/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Braj111/DSA-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -777,6 +778,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2058-concatenation-of-array](https://github.com/Braj111/DSA-Practice/tree/master/2058-concatenation-of-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/Braj111/DSA-Practice/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Braj111/DSA-Practice/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Braj111/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/Braj111/DSA-Practice/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/Braj111/DSA-Practice/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Braj111/DSA-Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -872,6 +874,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Braj111/DSA-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Braj111/DSA-Practice/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Braj111/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Braj111/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Braj111/DSA-Practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Braj111/DSA-Practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Braj111/DSA-Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
