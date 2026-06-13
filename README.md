@@ -316,6 +316,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3797-design-spreadsheet](https://github.com/Braj111/DSA-Practice/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Braj111/DSA-Practice/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Braj111/DSA-Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3838-weighted-word-mapping](https://github.com/Braj111/DSA-Practice/tree/master/3838-weighted-word-mapping) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Braj111/DSA-Practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
 |  |
@@ -667,6 +668,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Braj111/DSA-Practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Braj111/DSA-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Braj111/DSA-Practice/tree/master/3797-design-spreadsheet) |
+| [3838-weighted-word-mapping](https://github.com/Braj111/DSA-Practice/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Braj111/DSA-Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
@@ -814,6 +816,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Braj111/DSA-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Braj111/DSA-Practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Braj111/DSA-Practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3838-weighted-word-mapping](https://github.com/Braj111/DSA-Practice/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
 |  |
 | ------- |
