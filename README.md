@@ -658,6 +658,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Braj111/DSA-Practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Braj111/DSA-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Braj111/DSA-Practice/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Braj111/DSA-Practice/tree/master/3614-process-string-with-special-operations-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/Braj111/DSA-Practice/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Braj111/DSA-Practice/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Braj111/DSA-Practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -815,6 +816,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Braj111/DSA-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Braj111/DSA-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Braj111/DSA-Practice/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Braj111/DSA-Practice/tree/master/3614-process-string-with-special-operations-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Braj111/DSA-Practice/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Braj111/DSA-Practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Braj111/DSA-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
