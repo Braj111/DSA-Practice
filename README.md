@@ -467,6 +467,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0900-reordered-power-of-2](https://github.com/Braj111/DSA-Practice/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Braj111/DSA-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Braj111/DSA-Practice/tree/master/1018-largest-perimeter-triangle) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Braj111/DSA-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Braj111/DSA-Practice/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Braj111/DSA-Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Braj111/DSA-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
