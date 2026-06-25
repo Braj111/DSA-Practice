@@ -304,6 +304,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3719-longest-balanced-subarray-i](https://github.com/Braj111/DSA-Practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Braj111/DSA-Practice/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Braj111/DSA-Practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Braj111/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Braj111/DSA-Practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Braj111/DSA-Practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Braj111/DSA-Practice/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -425,6 +426,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3714-longest-balanced-substring-ii](https://github.com/Braj111/DSA-Practice/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Braj111/DSA-Practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Braj111/DSA-Practice/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Braj111/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Braj111/DSA-Practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Braj111/DSA-Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Braj111/DSA-Practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -881,6 +883,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3714-longest-balanced-substring-ii](https://github.com/Braj111/DSA-Practice/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Braj111/DSA-Practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Braj111/DSA-Practice/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Braj111/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Braj111/DSA-Practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Braj111/DSA-Practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Braj111/DSA-Practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -979,6 +982,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Braj111/DSA-Practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Braj111/DSA-Practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Braj111/DSA-Practice/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Braj111/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1208,6 +1212,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Braj111/DSA-Practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Braj111/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Braj111/DSA-Practice/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Braj111/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Braj111/DSA-Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Braj111/DSA-Practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Braj111/DSA-Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -1612,6 +1617,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3161-block-placement-queries](https://github.com/Braj111/DSA-Practice/tree/master/3161-block-placement-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/Braj111/DSA-Practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Braj111/DSA-Practice/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Braj111/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Braj111/DSA-Practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Braj111/DSA-Practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Braj111/DSA-Practice/tree/master/3791-fruits-into-baskets-iii) |
@@ -1619,6 +1625,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Braj111/DSA-Practice/tree/master/2280-count-good-triplets-in-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Braj111/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Queue
 |  |
 | ------- |
