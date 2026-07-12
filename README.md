@@ -60,6 +60,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Braj111/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/Braj111/DSA-Practice/tree/master/1293-three-consecutive-odds) |
 | [1306-jump-game-iii](https://github.com/Braj111/DSA-Practice/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/Braj111/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Braj111/DSA-Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1340-jump-game-v](https://github.com/Braj111/DSA-Practice/tree/master/1340-jump-game-v) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Braj111/DSA-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -358,6 +359,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Braj111/DSA-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Braj111/DSA-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Braj111/DSA-Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1331-rank-transform-of-an-array](https://github.com/Braj111/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Braj111/DSA-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/Braj111/DSA-Practice/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1363,6 +1365,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1018-largest-perimeter-triangle](https://github.com/Braj111/DSA-Practice/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Braj111/DSA-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Braj111/DSA-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1331-rank-transform-of-an-array](https://github.com/Braj111/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Braj111/DSA-Practice/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Braj111/DSA-Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Braj111/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
