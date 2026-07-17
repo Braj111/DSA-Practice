@@ -242,6 +242,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Braj111/DSA-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Braj111/DSA-Practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Braj111/DSA-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Braj111/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Braj111/DSA-Practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Braj111/DSA-Practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/Braj111/DSA-Practice/tree/master/3321-type-of-triangle) |
@@ -412,6 +413,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Braj111/DSA-Practice/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Braj111/DSA-Practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Braj111/DSA-Practice/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Braj111/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Braj111/DSA-Practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Braj111/DSA-Practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Braj111/DSA-Practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -536,6 +538,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Braj111/DSA-Practice/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Braj111/DSA-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Braj111/DSA-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Braj111/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3321-type-of-triangle](https://github.com/Braj111/DSA-Practice/tree/master/3321-type-of-triangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Braj111/DSA-Practice/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Braj111/DSA-Practice/tree/master/3433-count-mentions-per-user) |
@@ -884,6 +887,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Braj111/DSA-Practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Braj111/DSA-Practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Braj111/DSA-Practice/tree/master/3225-maximum-score-from-grid-operations) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Braj111/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Braj111/DSA-Practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Braj111/DSA-Practice/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Braj111/DSA-Practice/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -975,6 +979,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Braj111/DSA-Practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3161-block-placement-queries](https://github.com/Braj111/DSA-Practice/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Braj111/DSA-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Braj111/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Braj111/DSA-Practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Braj111/DSA-Practice/tree/master/3453-separate-squares-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Braj111/DSA-Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -1233,6 +1238,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2448-count-number-of-bad-pairs](https://github.com/Braj111/DSA-Practice/tree/master/2448-count-number-of-bad-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/Braj111/DSA-Practice/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Braj111/DSA-Practice/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Braj111/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Braj111/DSA-Practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Braj111/DSA-Practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Braj111/DSA-Practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -1541,6 +1547,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2610-closest-prime-numbers-in-range](https://github.com/Braj111/DSA-Practice/tree/master/2610-closest-prime-numbers-in-range) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Braj111/DSA-Practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Braj111/DSA-Practice/tree/master/3001-apply-operations-to-maximize-score) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Braj111/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Braj111/DSA-Practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Braj111/DSA-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
@@ -1608,6 +1615,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Braj111/DSA-Practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Braj111/DSA-Practice/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Braj111/DSA-Practice/tree/master/3201-distribute-candies-among-children-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Braj111/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3548-find-the-count-of-good-integers](https://github.com/Braj111/DSA-Practice/tree/master/3548-find-the-count-of-good-integers) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Braj111/DSA-Practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Braj111/DSA-Practice/tree/master/3637-count-number-of-balanced-permutations) |
