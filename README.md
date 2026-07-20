@@ -56,6 +56,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Braj111/DSA-Practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1200-minimum-absolute-difference](https://github.com/Braj111/DSA-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Braj111/DSA-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1260-shift-2d-grid](https://github.com/Braj111/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Braj111/DSA-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Braj111/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/Braj111/DSA-Practice/tree/master/1293-three-consecutive-odds) |
@@ -820,6 +821,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0498-diagonal-traverse](https://github.com/Braj111/DSA-Practice/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Braj111/DSA-Practice/tree/master/0657-robot-return-to-origin) |
 | [0898-transpose-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0898-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/Braj111/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Braj111/DSA-Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Braj111/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/Braj111/DSA-Practice/tree/master/1642-water-bottles) |
@@ -1081,6 +1083,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0854-making-a-large-island](https://github.com/Braj111/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/Braj111/DSA-Practice/tree/master/0945-snakes-and-ladders) |
+| [1260-shift-2d-grid](https://github.com/Braj111/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Braj111/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Braj111/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Braj111/DSA-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
