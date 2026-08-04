@@ -321,6 +321,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3689-maximum-total-subarray-value-i](https://github.com/Braj111/DSA-Practice/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Braj111/DSA-Practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Braj111/DSA-Practice/tree/master/3721-longest-balanced-subarray-ii) |
+| [3731-find-missing-elements](https://github.com/Braj111/DSA-Practice/tree/master/3731-find-missing-elements) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Braj111/DSA-Practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Braj111/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Braj111/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -451,6 +452,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3714-longest-balanced-substring-ii](https://github.com/Braj111/DSA-Practice/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Braj111/DSA-Practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Braj111/DSA-Practice/tree/master/3721-longest-balanced-subarray-ii) |
+| [3731-find-missing-elements](https://github.com/Braj111/DSA-Practice/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Braj111/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Braj111/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Braj111/DSA-Practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -1483,6 +1485,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3647-zero-array-transformation-iii](https://github.com/Braj111/DSA-Practice/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Braj111/DSA-Practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Braj111/DSA-Practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3731-find-missing-elements](https://github.com/Braj111/DSA-Practice/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Braj111/DSA-Practice/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Braj111/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Data Stream
