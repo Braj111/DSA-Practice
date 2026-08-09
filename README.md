@@ -57,6 +57,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Braj111/DSA-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Braj111/DSA-Practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Braj111/DSA-Practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/Braj111/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Braj111/DSA-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Braj111/DSA-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1260-shift-2d-grid](https://github.com/Braj111/DSA-Practice/tree/master/1260-shift-2d-grid) |
@@ -504,6 +505,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0900-reordered-power-of-2](https://github.com/Braj111/DSA-Practice/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Braj111/DSA-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Braj111/DSA-Practice/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/Braj111/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Braj111/DSA-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Braj111/DSA-Practice/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/Braj111/DSA-Practice/tree/master/1406-stone-game-iii) |
@@ -900,6 +902,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Braj111/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
+| [1140-stone-game-ii](https://github.com/Braj111/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Braj111/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Braj111/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Braj111/DSA-Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -1543,6 +1546,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Braj111/DSA-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Braj111/DSA-Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Braj111/DSA-Practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/Braj111/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1170-shortest-common-supersequence](https://github.com/Braj111/DSA-Practice/tree/master/1170-shortest-common-supersequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Braj111/DSA-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Braj111/DSA-Practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -1802,6 +1806,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Braj111/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Braj111/DSA-Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Braj111/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Braj111/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/Braj111/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
@@ -1851,9 +1856,11 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Braj111/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Braj111/DSA-Practice/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Braj111/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Braj111/DSA-Practice/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
