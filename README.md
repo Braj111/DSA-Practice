@@ -133,6 +133,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Braj111/DSA-Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Braj111/DSA-Practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Braj111/DSA-Practice/tree/master/2023-design-movie-rental-system) |
+| [2029-stone-game-ix](https://github.com/Braj111/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2048-build-array-from-permutation](https://github.com/Braj111/DSA-Practice/tree/master/2048-build-array-from-permutation) |
 | [2054-two-best-non-overlapping-events](https://github.com/Braj111/DSA-Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/Braj111/DSA-Practice/tree/master/2058-concatenation-of-array) |
@@ -535,6 +536,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Braj111/DSA-Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Braj111/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Braj111/DSA-Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2029-stone-game-ix](https://github.com/Braj111/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2050-count-good-numbers](https://github.com/Braj111/DSA-Practice/tree/master/2050-count-good-numbers) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Braj111/DSA-Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Braj111/DSA-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1237,6 +1239,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Braj111/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Braj111/DSA-Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/Braj111/DSA-Practice/tree/master/1975-maximum-matrix-sum) |
+| [2029-stone-game-ix](https://github.com/Braj111/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Braj111/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Braj111/DSA-Practice/tree/master/2126-destroying-asteroids) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Braj111/DSA-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -1297,6 +1300,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Braj111/DSA-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Braj111/DSA-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Braj111/DSA-Practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2029-stone-game-ix](https://github.com/Braj111/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Braj111/DSA-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Braj111/DSA-Practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Braj111/DSA-Practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1823,6 +1827,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0877-stone-game](https://github.com/Braj111/DSA-Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Braj111/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Braj111/DSA-Practice/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Braj111/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/Braj111/DSA-Practice/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 |  |
@@ -1873,9 +1878,15 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Braj111/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Braj111/DSA-Practice/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Braj111/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Braj111/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Braj111/DSA-Practice/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Braj111/DSA-Practice/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Braj111/DSA-Practice/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
