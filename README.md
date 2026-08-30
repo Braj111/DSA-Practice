@@ -141,6 +141,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2058-concatenation-of-array](https://github.com/Braj111/DSA-Practice/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Braj111/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Braj111/DSA-Practice/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Braj111/DSA-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2107-find-unique-binary-string](https://github.com/Braj111/DSA-Practice/tree/master/2107-find-unique-binary-string) |
 | [2126-destroying-asteroids](https://github.com/Braj111/DSA-Practice/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Braj111/DSA-Practice/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -1266,6 +1267,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1975-maximum-matrix-sum](https://github.com/Braj111/DSA-Practice/tree/master/1975-maximum-matrix-sum) |
 | [2029-stone-game-ix](https://github.com/Braj111/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Braj111/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Braj111/DSA-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Braj111/DSA-Practice/tree/master/2126-destroying-asteroids) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Braj111/DSA-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Braj111/DSA-Practice/tree/master/2141-maximum-running-time-of-n-computers) |
