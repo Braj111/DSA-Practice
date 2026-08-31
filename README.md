@@ -491,6 +491,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0061-rotate-list](https://github.com/Braj111/DSA-Practice/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Braj111/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Braj111/DSA-Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Braj111/DSA-Practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Braj111/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Braj111/DSA-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Braj111/DSA-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
