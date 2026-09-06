@@ -648,6 +648,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0013-roman-to-integer](https://github.com/Braj111/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/Braj111/DSA-Practice/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Braj111/DSA-Practice/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/Braj111/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/Braj111/DSA-Practice/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Braj111/DSA-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/Braj111/DSA-Practice/tree/master/0474-ones-and-zeroes) |
@@ -1588,6 +1589,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Braj111/DSA-Practice/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/Braj111/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Braj111/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Braj111/DSA-Practice/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/Braj111/DSA-Practice/tree/master/0368-largest-divisible-subset) |
