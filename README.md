@@ -526,6 +526,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0788-rotated-digits](https://github.com/Braj111/DSA-Practice/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/Braj111/DSA-Practice/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Braj111/DSA-Practice/tree/master/0826-soup-servings) |
+| [0836-rectangle-overlap](https://github.com/Braj111/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/Braj111/DSA-Practice/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/Braj111/DSA-Practice/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/Braj111/DSA-Practice/tree/master/0877-stone-game) |
@@ -1879,6 +1880,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Braj111/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Braj111/DSA-Practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Braj111/DSA-Practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Braj111/DSA-Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
