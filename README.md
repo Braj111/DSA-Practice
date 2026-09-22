@@ -292,6 +292,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Braj111/DSA-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Braj111/DSA-Practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Braj111/DSA-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/Braj111/DSA-Practice/tree/master/3525-find-x-value-of-array-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Braj111/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Braj111/DSA-Practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Braj111/DSA-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -610,6 +611,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Braj111/DSA-Practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Braj111/DSA-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Braj111/DSA-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/Braj111/DSA-Practice/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Braj111/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3548-find-the-count-of-good-integers](https://github.com/Braj111/DSA-Practice/tree/master/3548-find-the-count-of-good-integers) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Braj111/DSA-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -1851,6 +1853,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2280-count-good-triplets-in-an-array](https://github.com/Braj111/DSA-Practice/tree/master/2280-count-good-triplets-in-an-array) |
 | [3161-block-placement-queries](https://github.com/Braj111/DSA-Practice/tree/master/3161-block-placement-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Braj111/DSA-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/Braj111/DSA-Practice/tree/master/3525-find-x-value-of-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Braj111/DSA-Practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Braj111/DSA-Practice/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Braj111/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
