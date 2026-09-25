@@ -390,6 +390,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Braj111/DSA-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Braj111/DSA-Practice/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Braj111/DSA-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/Braj111/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1160-letter-tile-possibilities](https://github.com/Braj111/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/Braj111/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Braj111/DSA-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -684,6 +685,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Braj111/DSA-Practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Braj111/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Braj111/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/Braj111/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1160-letter-tile-possibilities](https://github.com/Braj111/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Braj111/DSA-Practice/tree/master/1170-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Braj111/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
@@ -873,6 +875,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0854-making-a-large-island](https://github.com/Braj111/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Braj111/DSA-Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/Braj111/DSA-Practice/tree/master/0945-snakes-and-ladders) |
+| [1096-brace-expansion-ii](https://github.com/Braj111/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Braj111/DSA-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/Braj111/DSA-Practice/tree/master/1306-jump-game-iii) |
@@ -1402,6 +1405,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Braj111/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Braj111/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Braj111/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Braj111/DSA-Practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Braj111/DSA-Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Braj111/DSA-Practice/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1520,6 +1524,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0761-special-binary-string](https://github.com/Braj111/DSA-Practice/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/Braj111/DSA-Practice/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Braj111/DSA-Practice/tree/master/1018-largest-perimeter-triangle) |
+| [1096-brace-expansion-ii](https://github.com/Braj111/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Braj111/DSA-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Braj111/DSA-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1331-rank-transform-of-an-array](https://github.com/Braj111/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -1605,6 +1610,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0401-binary-watch](https://github.com/Braj111/DSA-Practice/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/Braj111/DSA-Practice/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
+| [1096-brace-expansion-ii](https://github.com/Braj111/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1160-letter-tile-possibilities](https://github.com/Braj111/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Braj111/DSA-Practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Braj111/DSA-Practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
