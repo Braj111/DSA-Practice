@@ -666,6 +666,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Braj111/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Braj111/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Braj111/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Braj111/DSA-Practice/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Braj111/DSA-Practice/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Braj111/DSA-Practice/tree/master/0115-distinct-subsequences) |
@@ -1619,6 +1620,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Braj111/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Braj111/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0401-binary-watch](https://github.com/Braj111/DSA-Practice/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/Braj111/DSA-Practice/tree/master/0679-24-game) |
@@ -1640,6 +1642,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Braj111/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Braj111/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Braj111/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Braj111/DSA-Practice/tree/master/0118-pascals-triangle) |
@@ -2014,6 +2017,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Braj111/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Braj111/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Braj111/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Braj111/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Braj111/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
