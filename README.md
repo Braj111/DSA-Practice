@@ -673,6 +673,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0115-distinct-subsequences](https://github.com/Braj111/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/Braj111/DSA-Practice/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Braj111/DSA-Practice/tree/master/0166-fraction-to-recurring-decimal) |
+| [0301-remove-invalid-parentheses](https://github.com/Braj111/DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/Braj111/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/Braj111/DSA-Practice/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Braj111/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
@@ -882,6 +883,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Braj111/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/Braj111/DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Braj111/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Braj111/DSA-Practice/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/Braj111/DSA-Practice/tree/master/0794-swim-in-rising-water) |
@@ -1632,6 +1634,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Braj111/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Braj111/DSA-Practice/tree/master/0037-sudoku-solver) |
+| [0301-remove-invalid-parentheses](https://github.com/Braj111/DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/Braj111/DSA-Practice/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/Braj111/DSA-Practice/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0756-pyramid-transition-matrix) |
