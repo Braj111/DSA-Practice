@@ -304,6 +304,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Braj111/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Braj111/DSA-Practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Braj111/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Braj111/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Braj111/DSA-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Braj111/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Braj111/DSA-Practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -481,6 +482,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Braj111/DSA-Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Braj111/DSA-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Braj111/DSA-Practice/tree/master/3548-find-the-count-of-good-integers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Braj111/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Braj111/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Braj111/DSA-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Braj111/DSA-Practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1636,6 +1638,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Braj111/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Braj111/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Braj111/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Braj111/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Braj111/DSA-Practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Braj111/DSA-Practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Braj111/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
