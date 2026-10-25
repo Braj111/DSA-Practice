@@ -60,6 +60,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1140-stone-game-ii](https://github.com/Braj111/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Braj111/DSA-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Braj111/DSA-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1254-number-of-closed-islands](https://github.com/Braj111/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Braj111/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Braj111/DSA-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Braj111/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -882,6 +883,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Braj111/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Braj111/DSA-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/Braj111/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Braj111/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Braj111/DSA-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -918,6 +920,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [1096-brace-expansion-ii](https://github.com/Braj111/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Braj111/DSA-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/Braj111/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Braj111/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Braj111/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Braj111/DSA-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1249,6 +1252,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0854-making-a-large-island](https://github.com/Braj111/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/Braj111/DSA-Practice/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/Braj111/DSA-Practice/tree/master/0945-snakes-and-ladders) |
+| [1254-number-of-closed-islands](https://github.com/Braj111/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Braj111/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Braj111/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Braj111/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -2048,6 +2052,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Braj111/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Braj111/DSA-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Braj111/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Braj111/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
