@@ -374,6 +374,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3827-implement-router](https://github.com/Braj111/DSA-Practice/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Braj111/DSA-Practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-weighted-word-mapping](https://github.com/Braj111/DSA-Practice/tree/master/3838-weighted-word-mapping) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Braj111/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Braj111/DSA-Practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Braj111/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Braj111/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -842,6 +843,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Braj111/DSA-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Braj111/DSA-Practice/tree/master/3797-design-spreadsheet) |
 | [3838-weighted-word-mapping](https://github.com/Braj111/DSA-Practice/tree/master/3838-weighted-word-mapping) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Braj111/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Braj111/DSA-Practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Braj111/DSA-Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
@@ -870,6 +872,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Braj111/DSA-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Braj111/DSA-Practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Braj111/DSA-Practice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Braj111/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -909,6 +912,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Braj111/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Braj111/DSA-Practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Braj111/DSA-Practice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Braj111/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1190,6 +1194,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3721-longest-balanced-subarray-ii](https://github.com/Braj111/DSA-Practice/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Braj111/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Braj111/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Braj111/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1239,6 +1244,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Braj111/DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Braj111/DSA-Practice/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Braj111/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Braj111/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Braj111/DSA-Practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Braj111/DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
@@ -1952,6 +1958,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Braj111/DSA-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Braj111/DSA-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/Braj111/DSA-Practice/tree/master/3161-block-placement-queries) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Braj111/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1970,6 +1977,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Braj111/DSA-Practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Braj111/DSA-Practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Braj111/DSA-Practice/tree/master/3791-fruits-into-baskets-iii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Braj111/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
 |  |
 | ------- |
